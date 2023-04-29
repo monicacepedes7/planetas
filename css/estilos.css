@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: helventica;
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1705/Nebula_planets-High_Quality_Wallpaper_1366x768.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white
+}
+
+nav
+{
+    background-color: #c781e3;
+    padding: 0px;
+    color:black;
+}
